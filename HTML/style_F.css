@@ -14,12 +14,11 @@ body {
   font-size: 30px;
   margin-left:15px;
   background-image: url("http://themes.typepad.com/images/aloha2.jpg");
- /* background-repeat: repeat-y;*/
   padding:50px;
     margin: auto;
   width: 75%;
    color: blue;
-  border: 4px solid black
+  border: 4px solid black;
 }
   h2 {
   font-size: 15px;
